@@ -79,7 +79,7 @@
     flex-direction: row;
     width: 100%;
     justify-content: space-around;
-    background-image: url("/images/backgroung7.jpg");
+    background-image: url("../images/backgroung7.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -92,7 +92,7 @@
 
 .special {
     padding-top: 50px;
-    background-image: url('/images/background-icecream.jpg');
+    background-image: url('../images/background-icecream.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -166,7 +166,7 @@
 }
 
 .promotion {
-    background-image: url('/images/background4.jpg');
+    background-image: url('../images/background4.jpg');
     background-position: center;
     background-size: cover;
     margin-top: 50px;
@@ -411,7 +411,7 @@ input[type=submit]:hover {
 }
 
 .contact {
-    background-image: url('/images/background-coffee2.jpg');
+    background-image: url('../images/background-coffee2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

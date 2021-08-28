@@ -79,7 +79,7 @@
     flex-direction: row;
     width: 100%;
     justify-content: space-around;
-    background-image: url("../images/backgroung7.jpg");
+    background-image: url("..images/backgroung7.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -92,7 +92,7 @@
 
 .special {
     padding-top: 50px;
-    background-image: url('../images/background-icecream.jpg');
+    background-image: url('..images/background-icecream.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
